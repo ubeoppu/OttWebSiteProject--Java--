@@ -34,9 +34,9 @@
          &nbsp;&nbsp;&nbsp;●&nbsp; 관리자: 회원 관리, 컨텐츠 관리, 게시글 삭제, QnA답변<br>
          &nbsp;&nbsp;&nbsp;●&nbsp; 일반 회원: QnA(C,R,U,D), 컨텐츠 보기, CSS, 메인페이지, 푸터<br>
          <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 설계 및 기능구현 </h2>
-<img src="https://github.com/user-attachments/assets/4de2e595-6993-4849-95d7-88a779655e6c" width="1350" height="570">
+<img src="https://github.com/user-attachments/assets/4de2e595-6993-4849-95d7-88a779655e6c" width="1350" height="560">
 <img src="https://github.com/user-attachments/assets/660d54fe-cf43-4372-8d33-916258bea8a1" width="1350" height="500">
-<img src="https://github.com/user-attachments/assets/80601f64-8819-44d1-833f-ad996b8f969b" width="1350" height="600">
+<img src="https://github.com/user-attachments/assets/80601f64-8819-44d1-833f-ad996b8f969b" width="1350" height="550">
     
     
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> :fire: 기능 시연 영상 </h2>
